@@ -11,28 +11,24 @@ I have invested in myself and enrolled for Cyber Security course, since then I a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | Home SOC Lab|
+| Network Traffic Monitoring and Attack Detection|Elastic Stack SIEM Configuration and Management|
+| Security Automation with Shuffle SOAR         |Install a Real-Time Intrusion Detection System (IDS) with Suricata and Python|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+ </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+    </div>
 
 ### SIEM
 <div>
