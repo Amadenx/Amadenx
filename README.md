@@ -11,9 +11,9 @@ I have invested in myself and enrolled for Cyber Security course, since then I a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Home SOC Lab|
+| Deploying Virtual Machines, Setting Active Directory | Home SOC Lab|
 | Network Traffic Monitoring and Attack Detection|Elastic Stack SIEM Configuration and Management|
-| Security Automation with Shuffle SOAR         |Install a Real-Time Intrusion Detection System (IDS) with Suricata and Python|
+| Setting IDS/IPS in my Home Network |Install a Real-Time Intrusion Detection System (IDS) with Suricata and Python|
 
 
 ## Tools
