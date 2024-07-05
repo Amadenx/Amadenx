@@ -11,7 +11,7 @@ I have invested in myself and enrolled for Cyber Security course, since then I a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Deploying Virtual Machines, Setting Active Directory | Home SOC Lab|
+| Deploying Virtual Machines, Setting Active Directory | Active Directory Project|
 | Network Traffic Monitoring and Attack Detection|Elastic Stack SIEM Configuration and Management|
 | Setting IDS/IPS in my Home Network |Install a Real-Time Intrusion Detection System (IDS) with Suricata and Python|
 
@@ -44,6 +44,6 @@ I have invested in myself and enrolled for Cyber Security course, since then I a
 </div>
 
 ## Projects
-- Home SOC Lab
+- Active Directory Project
 - Elastic Stack SIEM Configuration and Management
 - Install a Real-Time Intrusion Detection System (IDS) with Suricata and Python
